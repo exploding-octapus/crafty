@@ -43,7 +43,7 @@ at Exploding Octapus we call it a training video!
 git clone https://github.com/id-Software/RTCW-SP
 <^> 
 And here is a messenger App that you might be able to get working:
-https://github.com/telegramdesktop/tdesktop
+git clone https://github.com/telegramdesktop/tdesktop
 <^> !
 Also, here is maps, so you dont get lost on earth!
 sudo apt update
