@@ -1,0 +1,79 @@
+Hello.
+Oem just got news that vaccinated peeps could use a hand...
+so here's some cool options.
+<^>#
+just some housekeeping:
+debootstrap
+sudo get upgrade
+sudo apt update
+flash install system
+<^>
+here's Your Firewall:
+sudo get upgrade 
+apt-get install ufw
+ufw enable
+ufw default deny incoming
+ufw default allow outgoing
+<6>
+in kali nethunter is a option, 3 optipns down on the first page is an option called "EXTERNAL IP"
+this will put you on a random uninhabited sacred IP adress, close window to return.
+I'll just install that now.. ...
+git clone https://github.com/offensive-security/kali-nethunter
+Now...
+I also hear you are effected by psychatronic mind control, I have a 3MB Jammer for that,
+let me just install it;
+git clone https://github.com/asbestomolesto/mindguard
+Open several instances of this little gem - on different bands. abd "DEPSYCHE" is a powerfull medicine
+that you can also overdose your opponent on. 5 seconds of Depsyche (per week) for medicine / or 10 seconds to your enemy.
+It has never, nor will never, Hurt anyone. Not all mind control is bad, just most, try your own mind;
+<^>
+No Worries - 1.23 - 4.25
+Comfort: 7.21 - 8.20
+Warm - 5.68 - 5.88
+Sleep - 0.08 - 0.12
+Truth - 0.21 - 5.26
+Untwist 0.88 5.27 (frequency of Tektite) 
+<^>
+Here is an internet browser, Pale Moon:
+(you can use this to accept the terms and conditions of a public wifi)
+git clone https://github.com/RealityRipple/Pale-Moon
+<^>
+And here is a cool game: Return to Castle Wolfenstien.
+at Exploding Octapus we call it a training video!
+git clone https://github.com/id-Software/RTCW-SP
+<^> 
+And here is a messenger App that you might be able to get working:
+https://github.com/telegramdesktop/tdesktop
+<^> !
+Also, here is maps, so you dont get lost on earth!
+sudo apt update
+sudo apt install snapd
+sudo snap install snapd
+sudo snap install backslash-maps
+***and Kletress to keep your mind sharp:
+sudo snap install klettres
+<^>
+Finally an app store and GParted partition editor; Give yourself a 20,000 KB "User" Partition.
+sudo snap install snap-store
+sudo apt install gparted -y
+<^>
+Remember You must interupt any strange code, especially if it seems to come from nowhere:
+interupt and close the window in the first instance.; You have 5 seconds to interupt the code, before YOUR DOOM!
+<^>
+And Here is some encryption:
+apt install cryptsetup
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
+sudo cryptsetup open /dev/sda0 <Crafty0>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1
+sudo cryptsetup open /dev/sda1 <Crafty1>
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda2
+sudo cryptsetup open /dev/sdxy <Crafty2>
+WE LOVE YOU XPLODING OCTAPUS!!
+NEVER, EVER COWTOW BEFORE PEOPLE PRETENDING TO BE POWERFULL
+AND NEVER BE AN ENTHUSIASTIC SLAVE!
+GOOD LUCK!
+YOU ARE JUST AS AMAZING AS YOU ALWAYS WERE;
+BE FANTASTIC TO EACH OTHER
+LOVE YOU!!!
+<^>
+.....Sparks
